@@ -1,8 +1,0 @@
-#java的设计模式主要有以下几种：
-```
-@Override
-protected void onDestroy() {
-    EventBus.getDefault().unregister(this);
-    super.onDestroy();
-}
-```  
